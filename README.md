@@ -14,7 +14,7 @@ Basic Blocks
 
 Basic Operations
 
-1. ADDITION/ SUBTRACTION 
+1. ADDITION/ SUBTRACTION  geeta
 2. MULTIPLICATION 
 3. DIVISION 
 4. Square Root
@@ -25,5 +25,6 @@ Specifications
 2. Pipelined stages
 3. Minimized Delay
 4. Minimized Area
+
 
 
